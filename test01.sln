@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test01", "test01\test01.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineBot_test02", "LineBot_test02\LineBot_test02.csproj", "{B43E8055-9B70-4996-81CC-E1073BBE3D45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test03_Tempalte", "test03_Tempalte\test03_Tempalte.csproj", "{1E1E4EB8-4BF6-4FE8-8CBA-DB3F26DE17F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B43E8055-9B70-4996-81CC-E1073BBE3D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B43E8055-9B70-4996-81CC-E1073BBE3D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B43E8055-9B70-4996-81CC-E1073BBE3D45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E1E4EB8-4BF6-4FE8-8CBA-DB3F26DE17F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E1E4EB8-4BF6-4FE8-8CBA-DB3F26DE17F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E1E4EB8-4BF6-4FE8-8CBA-DB3F26DE17F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E1E4EB8-4BF6-4FE8-8CBA-DB3F26DE17F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

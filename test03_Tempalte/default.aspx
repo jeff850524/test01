@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="LineBot_test02._default" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="test03_Tempalte._default" %>
 
 <!DOCTYPE html>
 
@@ -18,10 +18,8 @@
         <br />
         <br />
         <asp:Button ID="Button3" runat="server" OnClick="Button3_Click" Text="Push Tempalte Message" />
-        <br />
-        <br />
-        <asp:Button ID="Button4" runat="server" OnClick="Button4_Click" Text="Button" />
     </div>
+       
     </form>
 </body>
 </html>
