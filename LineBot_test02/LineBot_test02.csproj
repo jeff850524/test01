@@ -93,6 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\LineBotController.cs" />
     <Compile Include="Controllers\LineWebHookSampleController.cs" />
     <Compile Include="Controllers\TestLUISController.cs" />
     <Compile Include="Controllers\TestQnAController.cs" />
